@@ -1,0 +1,43 @@
+ .main
+   {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    }
+
+ body{
+     background-color: #F3F5FC;
+ }
+ .main{
+     display: flex;
+     margin-left: 8Opx;
+     margin-bottom: 50px;
+ }
+ .input-texto{
+     margin-top: 90px;
+ }
+ .mensagem{
+     position: relative;
+     margin-top: 20px;
+     margin-left: 90px;
+ }
+ .botoes{
+     display: flex;
+     flex-direction: row;
+     margin-top: 20px;
+ }
+ .encriptar{
+     background-color: darkblue;
+     color: white;
+ }
+ .desencriptar{
+    background-color: green;
+    color: white;
+}
+ .desencriptar{
+     margin-left: 30px;
+ }
+ .informacao{
+     font-size: 15px;
+ }
